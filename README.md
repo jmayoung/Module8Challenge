@@ -2,6 +2,7 @@
 
 ## Description
 This is an application used to store or add new vehicles to a vehicle database, and then choose what actions you'd like to do with the vehicles. There was a source code provided for this application, but several modifications were made to include truck and motorbike vehicle types. The truck and motorbike vehicle types have special actions that only they can do, where the truck can tow other vehicles, and the motorbike can perform a wheelie. Some vehicles were automatically added to the Vehicle array, but others can be included.
+Full demonstration of the application can be found here: https://drive.google.com/file/d/1jG8AF_By4xCsVd4m-pFjdHjJhmnhOoN0/view
 
 ## Table of Contents  
   - [Installation](#installation)
